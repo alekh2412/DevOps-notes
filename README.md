@@ -1,2 +1,6 @@
 # DevOps-notes
-This is DevOps Notes File...
+DevOps learning notes and cheat sheets
+linux/
+git/
+shell/
+python/
